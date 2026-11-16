@@ -105,3 +105,4 @@ docs/build/       report + slide generators (Node.js), PDF export (Word COM)
 > The report follows the common university mini-project format because no departmental template was
 > provided. If your department prescribes a different template (margins, fonts, chapter names), change
 > the values in `docs/build/lib.js` (styles, page geometry) and rerun `build_all.bat`.
+# Legacy-Migration-cipher-
